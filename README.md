@@ -1,1 +1,1 @@
-# Early-Diabetes-Risk-Pred
+# Early-Diabetes-Risk-Prediction 
